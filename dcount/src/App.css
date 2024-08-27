@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.App {
+  background-image: url('http://www.pixelstalk.net/wp-content/uploads/2016/06/Download-Light-Blue-HD-Backgrounds.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; /* Use min-height instead of height to allow content to expand beyond viewport height */
+}
+
+.row-wrapper {
+  overflow-x: hidden;
+}
